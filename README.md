@@ -41,16 +41,19 @@ To get started with the Blog Web App, follow these steps:
    ```bash
    git clone https://github.com/your-username/blog-web-app.git
   ```
+
 2. Install the necessary dependencies:
   ```bash
     cd blog-web-app
     npm install
+
 3. Configure your environment variables by creating a .env file based on the provided .env.example file.
 
 4. Start the development server:
   ```bash
     npm run dev
   ```
+
 5. Access the app at http://localhost:3000 in your web browser.
 
 
@@ -61,12 +64,12 @@ The Blog Web App is designed to be intuitive and user-friendly. You can create a
 ## Deployment
 Deploying your Blog Web App is a breeze. You can host it on platforms like Heroku, Netlify, or Vercel. Follow the deployment guides provided by your chosen hosting platform to get your blog live on the web and start sharing your thoughts with the world.
 
-
-## Contributing
-We welcome contributions from the open-source community. If you'd like to contribute to the project, please review our contribution guidelines to get started.
-
-
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries, please contact [hussainmaisam62@gmail.com].
 
 Thank you for choosing the Blog Web App. We hope this powerful MERN stack solution helps you create an amazing blog that stands out on the web. Happy blogging! 🚀
