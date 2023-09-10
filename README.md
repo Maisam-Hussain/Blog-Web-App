@@ -38,21 +38,28 @@ The Blog Web App is designed to simplify the process of creating and managing a 
 ## Getting Started
 To get started with the Blog Web App, follow these steps:
 1. Clone the repository to your local machine:
+   
    ```bash
    git clone https://github.com/your-username/blog-web-app.git
   ```
 
-2. Install the necessary dependencies:
-  ```bash
-    cd blog-web-app
-    npm install
+2. Install dependencies
+
+```bash
+  cd blog-web-app
+  npm install
+```
 
 3. Configure your environment variables by creating a .env file based on the provided .env.example file.
 
+
 4. Start the development server:
-  ```bash
-    npm run dev
-  ```
+
+```bash
+  npm run dev
+```
+
+## Usage
 
 5. Access the app at http://localhost:3000 in your web browser.
 
