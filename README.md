@@ -40,15 +40,15 @@ To get started with the Blog Web App, follow these steps:
 1. Clone the repository to your local machine:
    
    ```bash
-   git clone https://github.com/your-username/blog-web-app.git
+      git clone https://github.com/your-username/blog-web-app.git
+   ```
+
+2. Install dependencies:
+
+  ```bash
+    cd blog-web-app
+    npm install
   ```
-
-2. Install dependencies
-
-```bash
-  cd blog-web-app
-  npm install
-```
 
 3. Configure your environment variables by creating a .env file based on the provided .env.example file.
 
