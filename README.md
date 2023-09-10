@@ -4,6 +4,7 @@ Welcome to the Blog Web App, a powerful and versatile web application built usin
 ## Table of Contents
 * Introduction
 * Features
+* Technologies Used
 * Screenshots
 * Getting Started
 * Usage
@@ -24,6 +25,17 @@ The Blog Web App is designed to simplify the process of creating and managing a 
 * **SEO Friendly:** Improve your blog's search engine visibility.
 * **Ready to Deploy:** Get your blog up and running in no time.
 
+## ## Technologies Used
+
+- Node.js
+- Express.js
+- Lodash.js
+- MongoDB
+- EJS templates
+- CSS
+- Bootstrap
+
+  
 ## Screenshots
 1. [https://github.com/Maisam-Hussain/Blog-Web-App/blob/master/screenShots/1st.PNG]
 2. [https://github.com/Maisam-Hussain/Blog-Web-App/blob/master/screenShots/2nd.PNG]
@@ -69,7 +81,7 @@ The Blog Web App is designed to be intuitive and user-friendly. You can create a
 
 
 ## Deployment
-Deploying your Blog Web App is a breeze. You can host it on platforms like Heroku, Netlify, or Vercel. Follow the deployment guides provided by your chosen hosting platform to get your blog live on the web and start sharing your thoughts with the world.
+Deploying your Blog Web App is a breeze. You can host it on platforms like Heroku, Google Cloud, or Vercel. Follow the deployment guides provided by your chosen hosting platform to get your blog live on the web and start sharing your thoughts with the world.
 
 ## License
 
